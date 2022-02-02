@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys
 
 word_count = 0
@@ -12,4 +14,3 @@ for line in sys.stdin:
         pass
 
 print (word_count)
-
